@@ -1,0 +1,12 @@
+hr {
+ height: 2px;
+ background-color: orangered;
+ border: none;
+}
+
+.sidebar{
+ margin-top: 40px;
+ max-width: 200px;
+ width: 200px;
+ background-color: whitesmoke;
+}
